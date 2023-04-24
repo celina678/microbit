@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="6rmFO!KP.b|LGCRppR;4" x="0" y="0"></block><block type="device_forever" id="p_5Dd_f1?_,-QEEpOd{b" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="i@sJ.I74Be_|T*Y0^+Z*" x="-169" y="-123"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_number" id="GHvI-vrmv7,ZbBa`w_A4"><value name="number"><shadow type="math_number" id="YpF,2E_B%k(HuDXo4x77"><field name="NUM">3</field></shadow></value><next><block type="device_show_number" id="2[Locs71F^kvt1?UOfCt"><value name="number"><shadow type="math_number" id="_F{UcVB3G.D6Br!?FCO["><field name="NUM">2</field></shadow></value><next><block type="device_show_number" id="G;M;7AC0:v5sAX6Qb1,V"><value name="number"><shadow type="math_number" id="o(mBLm4YJb?$[erC)vjW"><field name="NUM">1</field></shadow></value><next><block type="device_print_message" id="Gb%fgyMj0AsO-=H#}.1/"><value name="text"><shadow type="text" id="NSi/(ZHs[q:V:~)Qw#b:"><field name="TEXT">go</field></shadow></value><next><block type="device_show_leds" id="ZR(XkLIJst@D^t%u/vgY"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="p_5Dd_f1?_,-QEEpOd{b" x="205" y="0"></block><block type="pxt-on-start" id="6rmFO!KP.b|LGCRppR;4" x="328" y="263"></block></xml>
